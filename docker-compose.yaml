@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  teleport:
+    image: codejamninja/nginx:latest
+  ports:
+    - 8080:8080
