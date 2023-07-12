@@ -4,6 +4,8 @@
 
 > simple nginx setup for docker
 
+![](assets/docker-nginx.png)
+
 Please ★ this repo if you found it useful ★ ★ ★
 
 
